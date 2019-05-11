@@ -5,7 +5,7 @@ import java.util.Date;
 
 public class LocalDateJava8 {
 
-    public static void main(String[] args) {
+    public  void mainDate(String[] args) {
 
       //  LocalDate lt=new LocalDate().now();
         Date dt=new java.util.Date();
